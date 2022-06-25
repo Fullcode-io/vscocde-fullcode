@@ -51,7 +51,7 @@
 		"git-repo-info": "^2.1.1",
 		"ignore": "^5.1.8",
 		"lodash.debounce": "^4.0.8",
-		"node-fetch": "^2.6.0",
+		"node-fetch": "^2.6.7",
 		"pako": "^1.0.11",
 		"remote-origin-url": "^2.0.0",
 		"threads": "^1.4.1"
